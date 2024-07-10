@@ -1,0 +1,1 @@
+# Mạch được thiết kế trên phần mềm Altium designer 19.1.7
